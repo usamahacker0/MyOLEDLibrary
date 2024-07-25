@@ -6,8 +6,6 @@ A simple library to interface with an SSD1306 OLED display using the Adafruit_GF
 - [Introduction](#introduction)
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
-- [License](#license)
 
 ## Introduction
 
